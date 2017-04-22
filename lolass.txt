@@ -1,0 +1,45 @@
+{
+    "room":                     "qq8",
+    "author":                   "qq8",
+    "icon":                     null,
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#8FF3D3",
+        "ambassador":           "#9CE036",
+        "host":                 null,
+        "cohost":               "#621CB8",
+        "manager":              "#581BD0",
+        "bouncer":              "#581BD0",
+        "rdj":                  "#3084EB",
+        "subscriber":           "#F0AD40",
+        "silversubscriber":     "#A1A6B3",
+        "friend":               "#C54C89",
+        "user":                 "#888D95"
+    },
+    "images": {
+        "background":           "https://cdn.radiant.dj/rcs/bg/1.png",
+        "playback":             null,
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 null,
+        "cohost":               null,
+        "manager":              null,
+        "bouncer":              null,
+        "rdj":                  null,
+        "subscriber":           null,
+        "silversubscriber":     null
+    },
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    }
+}
